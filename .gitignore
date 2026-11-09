@@ -1,0 +1,22 @@
+# Virtual machine and installer files: far too large for GitHub, never upload them
+*.iso
+*.vmdk
+*.vmx
+*.vmxf
+*.vmsd
+*.vmsn
+*.vmss
+*.vmem
+*.nvram
+*.lck
+*.log
+
+# Secrets
+.env
+*.key
+*.pem
+
+# System files
+Thumbs.db
+desktop.ini
+.DS_Store
